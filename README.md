@@ -1,5 +1,11 @@
 # FiveM-Borders
-Introduce the Borders script! This is my first official release for FiveM and for ANY game mod.  It's simple and yet, so effective.  Basically It's a mod that allows you to view the maps boundaries in a non-intrusive way! 
+Before we get started, do NOT PASS ON THIS CONTENT AS YOUR OWN! THIS IS MY SHIET! Do NOT SELL MY CONTENT. It's intended for everyone. NOT PRIVATE, FREE!  
+
+
+Also you're free to use this however you like, but just be sure to credit me if using in video / part of another mod! Thanks!
+========================================================================================================================================
+
+Introduce the Borders script! This is my first official release for FiveM and for ANY game.  It's simple and yet, so effective.  Basically It's a mod that allows you to view the maps boundaries in a non-intrusive way! 
 
 To activate the mod, simply type: 
 /borders on
