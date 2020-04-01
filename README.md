@@ -23,3 +23,16 @@ Lastly, I will be doing very minimal support on this as it's a very simple scrip
 
 Anyways, if you need help, please go to the releases page on the forums to be able to ask for help, or PM me on the FiveM forums! 
 Cheers! 
+
+
+How to install: 
+To install, simply throw the folder / directory named "marker" into your resources folder, and in the server.cfg (OR resources.cfg if you're a boss 8D ), start the resource.  
+Example: 
+
+Me: *Puts Marker folder in my server's resources directory*
+Also Me: *Using resources.cfg --> adds line: "ensure marker" to the end of the file!
+
+Note that the resource name is CASE SENSITIVE (if you didn't already know that!)
+Make sure to delete / remove the server cache after adding this for the first time to avoid any screwups! 
+
+Thanks!
